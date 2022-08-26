@@ -1,0 +1,40 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Energy comparison of sequential and integrated CO2
+  capture and electrochemical conversion
+message: Please cite this dataset using these metadata.
+type: dataset
+authors:
+  - given-names: Mengran
+    family-names: Li
+    email: m.li-8@tudelft.nl
+    affiliation: "1.\tMaterials for Energy Conversion and Storage (MECS), Department of Chemical Engineering, the Delft University of Technology, van der Maasweg 9, 2629 HZ Delft, The Netherlands."
+    orcid: 'https://orcid.org/0000-0001-7858-0533'
+  - given-names: Erdem
+    family-names: Irtem
+    email: i.e.irtem@tudelft.nl
+    affiliation: "1.\tMaterials for Energy Conversion and Storage (MECS), Department of Chemical Engineering, the Delft University of Technology, van der Maasweg 9, 2629 HZ Delft, The Netherlands."
+    orcid: 'https://orcid.org/0000-0002-2730-8932'
+  - given-names: Hugo-Pieter
+    family-names: Iglesias van Montfort
+    email: h.p.iglesiasvanmontfort@tudelft.nl
+    affiliation: "1.\tMaterials for Energy Conversion and Storage (MECS), Department of Chemical Engineering, the Delft University of Technology, van der Maasweg 9, 2629 HZ Delft, The Netherlands."
+    orcid: 'https://orcid.org/0000-0002-9594-392X'
+  - given-names: Maryam
+    family-names: Abdinejad
+    email: m.abdinejad@tudelft.nl
+    affiliation: "1.\tMaterials for Energy Conversion and Storage (MECS), Department of Chemical Engineering, the Delft University of Technology, van der Maasweg 9, 2629 HZ Delft, The Netherlands."
+    orcid: 'https://orcid.org/0000-0002-9279-3815'
+  - given-names: Thomas
+    family-names: Burdyny
+    email: t.e.burdyny@tudelft.nl
+    affiliation: "1.\tMaterials for Energy Conversion and Storage (MECS), Department of Chemical Engineering, the Delft University of Technology, van der Maasweg 9, 2629 HZ Delft, The Netherlands."
+    orcid: 'https://orcid.org/0000-0001-8057-9558'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7025240
+repository-code: >-
+  https://github.com/MengranAARONLi/EnergyAnalysisIntegratedCO2CaptureElectrolysis
